@@ -1,0 +1,9 @@
+package pattern.facadepattern;
+
+public class ScheduleServerFacade {
+	private final ScheduleServer scheduleServer;
+	
+	public ScheduleServerFacade(ScheduleServer scheduleServer){
+		this.scheduleServer = scheduleServer;
+	}
+}

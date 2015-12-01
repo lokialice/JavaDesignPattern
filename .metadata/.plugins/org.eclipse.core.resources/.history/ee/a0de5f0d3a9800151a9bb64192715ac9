@@ -1,0 +1,5 @@
+package pattern.facadepattern;
+
+public class ScheduleServerFacade {
+	private final SheduleServerFacade sch
+}
